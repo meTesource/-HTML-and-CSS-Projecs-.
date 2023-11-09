@@ -1,0 +1,10 @@
+p {
+    color: gold;
+    background-color: red;
+    font-size: large;
+    text-aligm: right;
+}
+
+h1 {
+    text-shadow: 0px 0px 10px green;
+}
